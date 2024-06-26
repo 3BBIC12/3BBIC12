@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 💙
 
-<!--
-**3BBIC12/3BBIC12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Beatriz Inacia
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript;
+- Amo minha gata
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+00001103141284SP@al.educacao.sp.gov.br
+
+
+## Olá!
+
+![](https://media1.tenor.com/m/fwSmRdrA51UAAAAC/anger-inside-out.gif)
